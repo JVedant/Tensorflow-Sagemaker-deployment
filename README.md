@@ -1,7 +1,7 @@
 # Tensorflow-Sagemaker-deployment (Coursera Guided project)
 Coursera project :- https://bit.ly/3kMcCcP
 
-### In this project classification of dogs and cats based on 3 layer neural network is shown.
+### this project is a classification of dogs and cats based on 3 layer neural network is shown.
 
 to run this you need to pip install
 * tensorflow
