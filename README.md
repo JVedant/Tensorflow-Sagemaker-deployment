@@ -1,7 +1,7 @@
 # Tensorflow-Sagemaker-deployment (Coursera Guided project)
 Coursera project :- https://bit.ly/3kMcCcP
 
-###In this project classification of dogs and cats based on 3 layer neural network is shown.
+### In this project classification of dogs and cats based on 3 layer neural network is shown.
 
 to run this you need to pip install
 * tensorflow
@@ -15,7 +15,7 @@ and the annotation are from http://www.robots.ox.ac.uk/~vgg/data/pets/data/annot
 
 ---
 
-##Sagemaker
+## Sagemaker
 ---
 You need to have an aws account for it ... or you can create one [here](https://aws.amazon.com)
 
